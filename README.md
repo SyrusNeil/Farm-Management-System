@@ -7,5 +7,5 @@ A Farm Management System is a vital tool for modern agriculture. By integrating 
 agricultural managers to optimize their operations, improve productivity, and contribute to amore sustainable and profitable future for agriculture. 
 This system plays a crucial role in addressing the challenges and complexities of the agricultural sector, ensuring food security and economic growth.
 
-SQL was used for data collection and manipulation/
+SQL was used for data collection and manipulation.
 The website was made using CSS and HTML.
